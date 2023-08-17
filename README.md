@@ -26,4 +26,4 @@ Em resumo, o código é um esqueleto de um jogo 2D onde você controla um person
 - Use as teclas "a", "d", "w" e "s" do seu teclado para mover o personagem.
 
 ### Veja o game
-![ezgif-5-d61fd2f9fb](https://github.com/Magah051/jumping-platforms/assets/31749933/3e07e5e4-0998-4f4a-8902-3ca0966b5735)
+![ezgif-5-e8b19a0145](https://github.com/Magah051/jumping-platforms/assets/31749933/ccc5c826-fcf3-4c5a-a67d-6f0a9873d5a5)
