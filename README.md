@@ -1,9 +1,14 @@
-# jumping-platforms
-<i>Este não é um jogo completo. É apenas um repositório, cuja finalidade é apresentar domínio técnico de uma ou mais ferramentas de desenvolvimento.</i>
+# Jumping Platforms
+
+<i>Este é um pequeno projeto contendo uma cena de jogo de plataforma feito em Javascript. Diversos conceitos foram aplicados aqui, dentre eles:
+- Animação de personagem
+- Movimentação de câmera vertical
+- Movimentação de câmera horizontal
+- Uso de plataformas
+</i>  
 <hr>
 
-Projeto Game 2D em Javascript exemplificando várias mecânicas, dentre elas, posicionamento de câmera vertical e horizontal.
-
+## Detalhes
 Este projeto é uma parte de um jogo 2D feito em JavaScript, onde você controla um personagem em um mundo de plataforma. Pense nisso como um jogo clássico de "pular e correr". A área onde o personagem se move é desenhada em um quadro chamado "canvas". O objetivo é fazer o personagem se mover, pular e interagir com o ambiente.
 
 O jogo começa configurando o quadro do jogo, o que é como criar o espaço onde tudo acontecerá. Existem blocos de colisão que representam as coisas com as quais o personagem pode colidir, como plataformas ou paredes.
